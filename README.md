@@ -246,14 +246,4 @@ IT3381_KangBin_244423Q_Report_Final.docx
 
 The report contains the detailed methodology, experiments, results, screenshots, analysis, and discussion for both parts of the assignment.
 
----
 
-# 👨‍💻 Author
-
-**KangBin**
-
-**Module:** IT3381 — Applied Deep Learning
-
----
-
-⭐ If you found this project useful, consider giving the repository a star!
